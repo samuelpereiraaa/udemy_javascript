@@ -14,9 +14,5 @@ function percentage38(value) {
 }
 console.log(percentage38(500)) // retornando o valor do argumento
 
-// operador ternario
 
-let carro = 110
-
-let teste = carro >= 110 ? 'V' : 'F'
 
